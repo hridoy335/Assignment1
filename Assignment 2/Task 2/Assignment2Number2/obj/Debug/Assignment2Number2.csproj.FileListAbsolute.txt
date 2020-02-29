@@ -1,0 +1,14 @@
+C:\Users\Pearl Consultant Ltd\Documents\Visual Studio 2017\Projects\Assignment2Number2\obj\Debug\Assignment2Number2.csprojAssemblyReference.cache
+C:\Users\Pearl Consultant Ltd\Documents\Visual Studio 2017\Projects\Assignment2Number2\obj\Debug\Assignment2Number2.csproj.CoreCompileInputs.cache
+C:\Users\Pearl Consultant Ltd\Documents\Visual Studio 2017\Projects\Assignment2Number2\bin\Debug\Assignment2Number2.exe.config
+C:\Users\Pearl Consultant Ltd\Documents\Visual Studio 2017\Projects\Assignment2Number2\bin\Debug\Assignment2Number2.exe
+C:\Users\Pearl Consultant Ltd\Documents\Visual Studio 2017\Projects\Assignment2Number2\bin\Debug\Assignment2Number2.pdb
+C:\Users\Pearl Consultant Ltd\Documents\Visual Studio 2017\Projects\Assignment2Number2\obj\Debug\Assignment2Number2.exe
+C:\Users\Pearl Consultant Ltd\Documents\Visual Studio 2017\Projects\Assignment2Number2\obj\Debug\Assignment2Number2.pdb
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number2\bin\Debug\Assignment2Number2.exe.config
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number2\bin\Debug\Assignment2Number2.exe
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number2\bin\Debug\Assignment2Number2.pdb
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number2\obj\Debug\Assignment2Number2.csprojAssemblyReference.cache
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number2\obj\Debug\Assignment2Number2.csproj.CoreCompileInputs.cache
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number2\obj\Debug\Assignment2Number2.exe
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number2\obj\Debug\Assignment2Number2.pdb

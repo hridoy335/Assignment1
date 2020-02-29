@@ -1,0 +1,20 @@
+G:\Education\Siyam Vai task\Task1Calculator\Task1Calculator\bin\Debug\Task1Calculator.exe.config
+G:\Education\Siyam Vai task\Task1Calculator\Task1Calculator\bin\Debug\Task1Calculator.exe
+G:\Education\Siyam Vai task\Task1Calculator\Task1Calculator\bin\Debug\Task1Calculator.pdb
+G:\Education\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.csprojAssemblyReference.cache
+G:\Education\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.Form1.resources
+G:\Education\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.Properties.Resources.resources
+G:\Education\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.csproj.GenerateResource.cache
+G:\Education\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.csproj.CoreCompileInputs.cache
+G:\Education\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.exe
+G:\Education\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.pdb
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Task1Calculator\Task1Calculator\bin\Debug\Task1Calculator.exe.config
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Task1Calculator\Task1Calculator\bin\Debug\Task1Calculator.exe
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Task1Calculator\Task1Calculator\bin\Debug\Task1Calculator.pdb
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.csprojAssemblyReference.cache
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.Form1.resources
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.Properties.Resources.resources
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.csproj.GenerateResource.cache
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.exe
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.pdb

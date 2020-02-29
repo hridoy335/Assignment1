@@ -1,0 +1,14 @@
+G:\Education\Siyam Vai task\Assignment2Number1\Assignment2Number1\bin\Debug\Assignment2Number1.exe.config
+G:\Education\Siyam Vai task\Assignment2Number1\Assignment2Number1\bin\Debug\Assignment2Number1.exe
+G:\Education\Siyam Vai task\Assignment2Number1\Assignment2Number1\bin\Debug\Assignment2Number1.pdb
+G:\Education\Siyam Vai task\Assignment2Number1\Assignment2Number1\obj\Debug\Assignment2Number1.csprojAssemblyReference.cache
+G:\Education\Siyam Vai task\Assignment2Number1\Assignment2Number1\obj\Debug\Assignment2Number1.csproj.CoreCompileInputs.cache
+G:\Education\Siyam Vai task\Assignment2Number1\Assignment2Number1\obj\Debug\Assignment2Number1.exe
+G:\Education\Siyam Vai task\Assignment2Number1\Assignment2Number1\obj\Debug\Assignment2Number1.pdb
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number1\Assignment2Number1\bin\Debug\Assignment2Number1.exe.config
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number1\Assignment2Number1\bin\Debug\Assignment2Number1.exe
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number1\Assignment2Number1\bin\Debug\Assignment2Number1.pdb
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number1\Assignment2Number1\obj\Debug\Assignment2Number1.csprojAssemblyReference.cache
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number1\Assignment2Number1\obj\Debug\Assignment2Number1.csproj.CoreCompileInputs.cache
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number1\Assignment2Number1\obj\Debug\Assignment2Number1.exe
+C:\Users\Pearl Consultant Ltd\Desktop\Siyam Vai task\Assignment2Number1\Assignment2Number1\obj\Debug\Assignment2Number1.pdb
